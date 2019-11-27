@@ -6,7 +6,7 @@ $fn = 64;
 
 $in     = 25.4; // everything in inches
 
-$length = 9.0   * $in;
+$length = 8.25  * $in;
 $height = 0.128 * $in;
 $width  = 1.75  * $in;
 
